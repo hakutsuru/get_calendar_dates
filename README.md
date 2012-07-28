@@ -1,7 +1,7 @@
 ## Get Calendar Dates
 ### Orientation
 
-*Disclaimer: I may never use githbub the way it is intended. I have plans to share gems and projects that may involve collaboration, but I suspect most of my "projects" will be little more than code showcases.*
+*Disclaimer: I may never use github the way it is intended. I have plans to share gems and projects that may involve collaboration, but I suspect most of my "projects" will be little more than code showcases.*
 
 This was the first bug I fixed on a recent job, a scheduling calendar was assigned with five rows and there were months that required six...
 
